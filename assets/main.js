@@ -6,8 +6,8 @@ infine scrivi sulla pagina il risultato in questo formato: nomecognomecolorepref
 */
 
 
-// //alert
-// alert('Ciao! fornisci nome cognome colore preferito');
+//alert
+alert('Ciao! fornisci nome cognome colore preferito');
 
 const full_name = prompt("scrivi il tuo nome")
 console.log(full_name)
@@ -27,3 +27,4 @@ const password = prompt ("scrivi la tua password")
 console.log(password)
 
 document.getElementById("password").innerHTML = '80'
+
